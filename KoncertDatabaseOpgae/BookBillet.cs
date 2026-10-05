@@ -30,7 +30,7 @@ namespace KoncertDatabaseOpgae
                 .Build();
 
 
-            String _connectionString = config["ElisabethsSecretString"];
+            string _connectionString = config["ElisabethsSecretString"];
 
             //Create connection
 
